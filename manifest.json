@@ -1,10 +1,10 @@
 {
   "name": "Workbench",
   "short_name": "Tools",
-  "start_url": ".",
+  "start_url": "/",
   "display": "standalone",
   "background_color": "#ffffff",
-  "theme_color": "#0a84ff",
+  "theme_color": "#007AFF",
   "icons": [
     {
       "src": "images/icons/logo192.png",
