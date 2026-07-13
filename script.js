@@ -1,3 +1,3 @@
-window.addEventListener("pageshow", () => {
-    location.href = location.pathname + "?t=" + Date.now();
-});
+// window.addEventListener("pageshow", () => {
+//     location.href = location.pathname + "?t=" + Date.now();
+// });
